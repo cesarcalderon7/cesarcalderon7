@@ -8,12 +8,10 @@ Me llamo César Castañeda, me gradué como Licenciado en Computación, en donde
 + PosgretSQL
 + Laravel
 + Javascript
-+ React JS
 + Node JS
 
 Actualmente, me encuentro aprendiendo/profundizando para dar lo mejor de mí en cada nuevo reto:
 
-+ React JS
 + Node JS
 + Laravel
 
